@@ -1,9 +1,28 @@
-# Landing Page Project
+# Table of Contents
 
-## Instructions
+- [Project Title](#project-title)
+- [Description](#description)
+- [Dependencies](#dependencies)
+- [Contribute](#contribute)
+- [License](#license)
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+# Project Title
+Landing Page Project
+[(Back to top)](#table-of-contents)
 
-To get started, open `js/app.js` and start building out the app's functionality
+# Description
+This project is to implement the navigation bar and change the HTML css to be dynamically with some ES6 and javascript functionalities
+[(Back to top)](#table-of-contents)
 
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+
+# Dependencies
+There are no dependencies
+[(Back to top)](#table-of-contents)
+
+# Contribute
+Student Name: Ibrahim Chehade
+[(Back to top)](#table-of-contents)
+
+# License
+2023
+[(Back to top)](#table-of-contents)
